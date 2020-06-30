@@ -1,0 +1,11 @@
+categories:
+  - conversations
+conversations:
+  - - Hey
+    - Hello!
+  - - what is the weather today?
+    - weather today-30
+  - - what is the weather tomorrow?
+    - weather tomorrow-40
+  - - what is the schedule today?
+    - Schedule today-10.00 AM
